@@ -5,16 +5,6 @@ This Android app for is made for students. Students can add, edit, delete terms,
 ## Home Screen
 ![Home screen](main.png?raw=true "Home Screen")
 
-INTRODUCTION
-________________
-
-
-As a competent mobile application developer, your understanding of mobile application structure and design will help you to develop applications to meet customer requirements. The following project to develop a student scheduler/student progress tracking application, will help you to apply these skills in a familiar, real-world scenario. This task will allow you to demonstrate your ability to apply the skills learned in the course.
-
-
-You will develop a multiple-screen mobile application for WGU students to track their terms, courses associated with each term, and assessment(s) associated with each course. The application will allow students to enter, edit, and delete term, course, and assessment data. It should provide summary and detailed views of courses for each term and provide alerts for upcoming performance and objective assessments. This application will use a SQLite database.
-
-
 Input
 Each of the following needs to be input into the application:
 *  terms, including the following:
@@ -54,18 +44,6 @@ Each of the following needs to be displayed by the application on a separate scr
     -      sharing features (e.g., email, SMS)
 REQUIREMENTS
 ________________
-
-
-Your submission must be your original work. No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. An originality report is provided when you submit your task that can be used as a guide. 
- 
-You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work. Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course
- 
-Note: The assessment must be submitted in an Android Studio project using Java as the programming language. External plugins and libraries are not allowed in the project.
-   
-Note: Submit your performance assessment by including all Android project files, APK, and signed apk files in one zipped.zip file.
-
-
-Note: The zip file submission must also keep the project file and folder structure intact for the Android Studio IDE.
 
 
 A. Create an Android (version 4.0 or higher) mobile application with the following functional requirements:
@@ -156,9 +134,3 @@ a. Identify the version of the operating system your application was developed u
 3. Describe (suggested length of 1–2 paragraphs) how you overcame each  challenge discussed in part F2.
 4. Describe (suggested length of 1–2 paragraphs) what you would do differently if you did the project again.
 5. Describe how emulators are used and the pros and cons of using an emulator vs. using a development device.
-
-
-G. Acknowledge sources, using APA-formatted in-text citations and references, for content that is quoted, paraphrased, or summarized.
-
-
-H. Demonstrate professional communication in the content and presentation of your submission.
